@@ -9,10 +9,15 @@
 ## Party Members Present:\*\*
 
 <a id="antonius-sopranus"></a>
+
 - Antonius Sopranus - John
+  <a id="kirea-raewen"></a>
 - Kirea Raewen - Christine
+  <a id="elyra"></a>
 - Elyra - Natasha
+  <a id="batbaryan"></a>
 - Batbaryan - Ryan
+  <a id="mordrith"></a>
 - Mordrith - Patrick
 
 ### NPCs Encountered
@@ -20,6 +25,7 @@
 #### Datu Macli'ing
 
 - Description: Leader of the Village of [Agusan](#agusan)
+- Location: [Happy Hornet](#the-happy-hornet)
 - Relationship to party: First quest giver - welcomes us to the village
 - Important information:
   - Lets us use his boat
@@ -30,7 +36,8 @@
 
 #### GiGi
 
-- Description: Dancer at the Happy Hornet
+- Description: Dancer at the [Happy Hornet](#the-happy-hornet)
+- Location: [Happy Hornet](#the-happy-hornet)
 - Relationship to party: Friendly
 - Important information:
 - Notes:
@@ -39,6 +46,7 @@
 #### Lupaya
 
 - Description: Gnome inventor
+- Location: [Sininga](#sininga)
 - Relationship to party: Friendly
 - Important information:
   - Sells us the LANTAKA
@@ -48,6 +56,7 @@
 #### Kings of Sininga
 
 - Description: Two kings of Sininga
+- Location: [Sininga](#sininga)
 - Relationship to party: Friendly
 - Important information: Rewarded us for killing the monster
 - Notes:
@@ -58,6 +67,7 @@
 #### Boat Captain
 
 - Description: Captain of the ship
+- Location: [Agusan](#agusan)
 - Relationship to party: Neutral
 - Important information:
 - Notes:
@@ -91,22 +101,51 @@
 
 ### Loot Acquired
 
-- [ ] Item 1
-- [ ] Item 2
-- [ ] Gold/currency
+- 💰 172 Gold (Party)
+- Healing Potion (Elyra)
+- Tuba x 2 (Antonius)
+- Lantaka (Party)
+- Wand of Pyrotechnics (Bag of Holding)
+- Hat of Wizardry (Bag of Holding)
+- Clockwork Amulet (Bag of Holding)
+- Pole of Collapsing (Elyra)
 
 ## Quests
 
 ### Active Quests
 
-- **[Quest Name]**
-  - [ ] Current objective
-  - Important details:
+- **[Retrieve Gnomish Weapon]**
+  <a id="retrieve-gnomish-weapon"></a>
+
+  - Quest Giver: [Datu Macli'ing](#datu-macliing)
+  - [x] Travel to Sininga and find the weapon
+  - [x] Negotiate (kill?) with gnomes to bring back the weapon
+  - [ ] Return to [Datu Macli'ing](#datu-macliing) with the weapon
   - Rewards promised:
+    - 250 gold up front and 150 gold on delivery
+  - Rewards Received:
+  - Extra Items Found:
+
+- **[Gnome Eater]**
+  <a id="gnome-eater"></a>
+
+  - Quest Giver: [Lupaya](#lupaya)
+  - [x] Investigate the rumors of a monster in Sininga
+  - [x] Kill the monster
+  - [x] Return to [The Kings of Sininga](#kings-of-sininga) with proof of the monster's death
+  - Rewards promised:
+    - ????
+  - Rewards Received:
+    - Wand of Pyrotechnics
+    - Hat of Wizardry
+    - Clockwork Amulet
+    - Bag of Holding
+  - Extra Items Found:
+    - Pole of Collapsing
 
 ### Completed Quests
 
-- [Quest name] - [Reward received]
+- [Gnome Eater](#gnome-eater) - [Reward received]
 
 ## Notes for Next Session
 
