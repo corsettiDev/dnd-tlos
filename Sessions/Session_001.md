@@ -8,8 +8,7 @@
 
 ## Party Members Present:\*\*
 
-<a name="Antonius Sopranus">Antonius</a>
-
+<a name="Antonius Sopranus"></a>
 - Antonius Sopranus - John
 - Kirea Raewen - Christine
 - Elyra - Natasha
