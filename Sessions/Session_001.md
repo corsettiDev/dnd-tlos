@@ -11,13 +11,21 @@
 <a id="antonius-sopranus"></a>
 
 - Antonius Sopranus - John
+
   <a id="kirea-raewen"></a>
+
 - Kirea Raewen - Christine
+
   <a id="elyra"></a>
+
 - Elyra - Natasha
+
   <a id="batbaryan"></a>
+
 - Batbaryan - Ryan
+
   <a id="mordrith"></a>
+
 - Mordrith - Patrick
 
 ### NPCs Encountered
@@ -99,6 +107,18 @@
 - Notes:
   - Antonius was scared of the Shark Bartender [Datu Macli'ing](#datu-macliing)
 
+#### Sininga
+
+- Description: A village in the [Kandaya] region
+- Important features:
+  - Gnomes
+  - Waterfall
+  - Mangroves
+- Potential reasons to return:
+  - Quest givers
+  - Crafty gnomes
+- Notes:
+
 ### Loot Acquired
 
 - 💰 172 Gold (Party)
@@ -149,13 +169,17 @@
 
 ## Notes for Next Session
 
-- [ ] Things to remember
-- [ ] Questions for DM
-- [ ] Character goals
+- The last thing we've heard from our party is that we're in a souless black void that has seemingly _swallowed_ the ship whole.
+- Antonius seems distraught - as though he's experienced this feeling before...
 
 ## Memorable Moments
 
-- [Funny quotes, critical rolls, dramatic moments]
+- [Elyra](#elyra) rolls a NAT 20 to steal a healing potion from the bartender
+- [Antonius](#antonius-sopranus) stops the spinning cannons with his huge arms and barreling chest
+- [Kirea](#kirea-raewen) hits the mimic with enough damage to kill it and decides to blugeon the creature to death after it begs for mercy
+- [Elyra](#elyra) rolls a double 19 on disadvantage to steal the pole of collapsing
+- The mimic essentially juggled [Mordrith](#mordrith) and [Batbaryan](#batbaryan) in its tentacles
+- The party levels up to level 2!
 
 ---
 
@@ -178,8 +202,6 @@
 - KIREA is an eledren druid
   - Originally from Ta'al (near the mountains)
 - ELRYA is looking for an elf with silver hair
-
-[antonius](#antonius-sopranus) is a human fighter
 
 - Datu needs some help with some gnomes
 
