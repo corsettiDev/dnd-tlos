@@ -97,5 +97,5 @@
 
 - We find a giant iron snake that has retreated into the mountain to gain more power
 - We sent out a broadcast shit talking romain reign
-- Purple Paul Hayes sent out a broadcast right after defending them but we got ours out first with the help of Batbaryan's BatGPT
+- Purple Paul Haymen sent out a broadcast right after defending them but we got ours out first with the help of Batbaryan's BatGPT
 - 300 gold each
